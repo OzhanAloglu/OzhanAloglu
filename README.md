@@ -7,7 +7,7 @@
 
 - :houses:I'm based in İstanbul.
 - :computer:Sites I publish on 
-www.ozhanaloglu.com.tr && coreproje.ozhanaloglu.com.tr
+www.ozhanaloglu.com.tr && https://coreproje.ozhanaloglu.com.tr/
 - :e-mail: You can contact me at ozhanaloglu1@gmail.com
 
 
