@@ -9,7 +9,7 @@
 - :computer:Sites I publish on 
 www.ozhanaloglu.com.tr && coreproje.ozhanaloglu.com.tr
 - :e-mail: You can contact me at ozhanaloglu1@gmail.com
--->
+
 
 ## Skills
 
