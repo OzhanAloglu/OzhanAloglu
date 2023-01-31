@@ -13,7 +13,7 @@ www.ozhanaloglu.com.tr && https://coreproje.ozhanaloglu.com.tr/
 
 ## Skills
 
-![](https://i.hizliresim.com/isxv88v.png?raw=true "Title") ![](https://i.hizliresim.com/4cyysxr.png?raw=true "Title") ![](https://i.hizliresim.com/av9x5xg.png?raw=true "Title") ![](https://i.hizliresim.com/pc83ery.png?raw=true "Title") ![](https://i.hizliresim.com/kwrgn3g.png?raw=true "Title") ![](https://i.hizliresim.com/5a1qepi.png?raw=true "Title") ![](https://i.hizliresim.com/az054si.png?raw=true "Title") ![](https://i.hizliresim.com/4bdlfr9.png?raw=true "Title") ![](?raw=true "Title") ![](https://i.hizliresim.com/78wxfxx.png?raw=true "Title") ![](https://i.hizliresim.com/7be9gh1.png?raw=true "Title")
+![](https://i.hizliresim.com/isxv88v.png?raw=true "Csharp") ![](https://i.hizliresim.com/4cyysxr.png?raw=true "JavaScript") ![](https://i.hizliresim.com/av9x5xg.png?raw=true "SQL") ![](https://i.hizliresim.com/pc83ery.png?raw=true "Python") ![](https://i.hizliresim.com/kwrgn3g.png?raw=true "HTML") ![](https://i.hizliresim.com/5a1qepi.png?raw=true "Bootstrap") ![](https://i.hizliresim.com/az054si.png?raw=true "CSS") ![](https://i.hizliresim.com/4bdlfr9.png?raw=true ".NET") ![](https://i.hizliresim.com/78wxfxx.png?raw=true ".NET Core") ![](https://i.hizliresim.com/7be9gh1.png?raw=true "Git")
 
 ## Socials
-![](https://i.hizliresim.com/qb6fwmh.png?raw=true "Title") ![](https://i.hizliresim.com/68ayugq.png?raw=true "Title")
+![](https://i.hizliresim.com/qb6fwmh.png?raw=true "Linkedln") ![](https://i.hizliresim.com/68ayugq.png?raw=true "Instagram")
